@@ -1,0 +1,33 @@
+For my final project I want to create an art installation that forces the viewer to get up-close and personal with the installation. I want to create an enclosure that hides the art work which is revealed as you get closer to the installation. The goal of the project is to encourage students to look at other students’ work attentively in order to learn from the artist and allow the art to inform their art work. 
+	The installation will have doors, lights, and sound that react to the viewers distance from the enclosure. As students walk toward the enclosure, the doors will begin to open and the lights will begin to light up. The closer the student gets to the enclosure, the brighter the LED’s become. The sound will also begin to play when the LED’s turn on. As with the LED’s, as the viewer moves closer to the enclosure, the louder the LED’s become. It may be interesting to have the lights and sound turn off if the viewer gets too close, i.e. if the viewer attempts to touch the art.
+
+Components:
+1x HC-SR04 Range detecting sensor
+2-3x 5mm LED’s
+Computer Speakers https://www.amazon.com/Inland-Sound-2000-Computer-Speakers/dp/B001NACBD0/ref=sr_1_1?s=electronics&ie=UTF8&qid=1479614500&sr=1-1&keywords=computer+speaker
+Balsa/Ply sheets (at least 12ft2)
+2x motors
+2x gears/gear rack
+
+Challenges:
+One challenge is going to be controlling the volume from the Arduino, I need to do more research on controlling volume/speakers via Arduino.
+
+Timeline:
+Week 1: Proposal
+Week 2: Gather components and begin assembly
+Week 3: Finish assembly/ wiring and begin coding
+Week 4: Refine coding/ add final details to enclosure
+Week 5: Present!
+
+References:
+http://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/?ALLSTEPS
+
+https://www.arduino.cc/en/Tutorial/Ping
+
+http://playground.arduino.cc/Main/PanasonicIrSensor
+
+http://forum.arduino.cc/index.php?topic=6236.0
+
+https://forum.processing.org/two/discussion/2712/#Comment_8829
+
+
